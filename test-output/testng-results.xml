@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2786" started-at="2018-04-02T15:34:08Z" finished-at="2018-04-02T15:34:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2786" started-at="2018-04-02T15:34:08Z" finished-at="2018-04-02T15:34:11Z">
+      <class name="com.bbc.JDTraining.JDTrainingDemo">
+        <test-method status="PASS" signature="JDTrainingDemoTest()[pri:0, instance:com.bbc.JDTraining.JDTrainingDemo@4ea5b703]" name="JDTrainingDemoTest" duration-ms="1656" started-at="2018-04-02T23:34:08Z" finished-at="2018-04-02T23:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDTrainingDemoTest -->
+        <test-method status="PASS" signature="AfterMethodDemo()[pri:0, instance:com.bbc.JDTraining.JDTrainingDemo@4ea5b703]" name="AfterMethodDemo" is-config="true" duration-ms="1110" started-at="2018-04-02T23:34:10Z" finished-at="2018-04-02T23:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodDemo -->
+      </class> <!-- com.bbc.JDTraining.JDTrainingDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
